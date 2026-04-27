@@ -18,7 +18,7 @@ import {
 import axios from "axios";
 import "./index.css";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://birthday-backend-g8te.onrender.com";
 
 const pages = ["home", "message", "surprise", "reasons", "ai", "secret", "final"];
 
