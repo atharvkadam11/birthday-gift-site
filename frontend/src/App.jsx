@@ -221,9 +221,22 @@ function App() {
                   <h2 className="text-3xl font-black mb-4">
                     A Message For You
                   </h2>
-                  <div className="min-h-44 w-full bg-white/10 rounded-2xl mb-6 border border-white/10 p-5 text-left text-pink-50">
-                    {/* Write your personal birthday message here later */}
-                  </div>
+                  <div className="min-h-44 w-full bg-white/10 rounded-2xl mb-6 border border-white/10 p-5 text-left text-pink-50 leading-relaxed">
+                     Happy Birthday ❤️
+
+                    I don’t think words will ever be enough to explain how special you are to me.
+                    But today, I just want you to feel how loved you truly are.
+
+                    You make my life lighter, happier, and more meaningful in ways I never expected.
+                    Every moment with you feels like something I never want to lose.
+
+                    I made this little world just for you… because you deserve something different,
+                    something thoughtful, something made with love.
+
+                    I hope this makes you smile 😊
+
+                  I love you the most💖
+</div>
                   <Btn onClick={() => setPage("surprise")}>Open Surprise</Btn>
                 </Card>
               </Page>
